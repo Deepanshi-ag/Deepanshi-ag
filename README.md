@@ -9,9 +9,7 @@
 - 🌱 I’m currently learning **Data Analytic Tool**
 
 - 👯 I’m looking to collaborate with- **Open Source Projects**
-
-- 👨‍💻 Check out my resume <br> [https://drive.google.com/file/d/18cufRWC3RVImyayd-zV5OdIO7q0h1p3_/view?usp=sharing](https://drive.google.com/file/d/1meVgFsy-iRL7BFu_-oSxaGFST1lJl-g8/view?usp=sharing)
-
+- 
 - ⚡ Fun fact: I am very funny🙊
 
 - 📫 You can reach me here **https://www.linkedin.com/in/deepanshi-agarwal-0688b9222/**
