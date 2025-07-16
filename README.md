@@ -1,23 +1,77 @@
-![logo](https://www.interactions.com/wp-content/uploads/2018/10/pure_vs_pragmatic_ai_2000x500.jpg)
-<h1 align="center">Hi👋 Coders , I'm Deepanshi Agrawal</h1>
-<h3 align="center">Solving Problems with Data | Data Analyst | Python | SQL | Excel🫠</h3>
+![Header](https://www.interactions.com/wp-content/uploads/2018/10/pure_vs_pragmatic_ai_2000x500.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetg2003&label=Profile%20views&color=0e75b6&style=flat" alt="vineetg2003" /> </p>
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1446559/screenshots/5453050/media/ff7fdbdc9b667c74cc57db48bfc2ffc7.gif" style="margin-top: 5;">
-- 🎓 I'm pursuing my Btech in **Artificial Intelligence and Data Science from Maharaja Agrasen Institute of Technology, Delhi**
+<h1 align="center">Hi 👋 Coders, I'm Deepanshi Agrawal</h1>
+<h3 align="center">🔍 Data Enthusiast | 🧠 Data Analyst | 📊 Python | 🛠 SQL | 📈 Excel</h3>
 
-- 🌱 I’m currently learning **Data Analytic Tool**
+---
 
-- 👯 I’m looking to collaborate with- **Open Source Projects**
-- 
-- ⚡ Fun fact: I am very funny🙊
+### 👩‍🎓 About Me
 
-- 📫 You can reach me here **https://www.linkedin.com/in/deepanshi-agarwal-0688b9222/**
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/https://vineetg2003.github.io/Vineet.github.io/"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://vineetg2003.github.io/Vineet.github.io/" /></a></p><br><br><br><br>
+- 🎓 I'm currently pursuing **B.Tech in Artificial Intelligence and Data Science**  
+  from **Maharaja Agrasen Institute of Technology, Delhi**
+- 🌱 Currently learning advanced **Data Analytics Tools & Techniques**
+- 🤝 Open to collaborating on **Data Science, Analytics & Visualization Projects**
+- 💬 Ask me about **Data Analysis, Python, Excel, SQL**
+- 😄 Fun fact: *I turn data into decisions and coffee into code ☕📊*
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vineetg2003&show_icons=true&locale=en&layout=compact" alt="vineetg2003" /></p>
+---
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vineetg2003&show_icons=true&locale=en" alt="vineetg2003" /></p>
+### 📫 Connect With Me
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=vineetg2003&" alt="vineetg2003" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DeepanshiAgarwal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepanshi-agarwal-0688b9222/)
+
+---
+
+### ✨ Support & Portfolio
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Support+My+Work!;Check+Out+My+Projects+🚀;Let’s+Grow+Together+💡&center=true&width=500&height=50" />
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me Coffee" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Click_Here-orange?style=for-the-badge&logo=firefox-browser" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepanshi-username&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshi-username&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshi-username&theme=github-dark" alt="GitHub Streak" />
+</p>
+
+---
+
+### ⚒️ Tools & Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+---
+
+### 🔥 Fun Projects & Visuals Coming Soon!
+
+> 📌 *Stay tuned for real-time dashboards, EDA reports & interactive notebooks.*
+
+---
+
+> _“Turning curiosity into insight and data into stories.”_
