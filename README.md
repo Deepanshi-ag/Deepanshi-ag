@@ -22,36 +22,18 @@
 
 ---
 
-### ✨ Support & Portfolio
+### 🎮 Just for Fun
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Support+My+Work!;Check+Out+My+Projects+🚀;Let’s+Grow+Together+💡&center=true&width=500&height=50" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=octocat&theme=rogue" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me Coffee" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Click_Here-orange?style=for-the-badge&logo=firefox-browser" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshi-username&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshi-username&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshi-username&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&width=435&lines=Analyzing+Data+Like+a+Pro+📊;Telling+Stories+with+Numbers+📈;Turning+Logic+into+Insight+💡" />
 </p>
 
 ---
@@ -65,12 +47,6 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
-
----
-
-### 🔥 Fun Projects & Visuals Coming Soon!
-
-> 📌 *Stay tuned for real-time dashboards, EDA reports & interactive notebooks.*
 
 ---
 
