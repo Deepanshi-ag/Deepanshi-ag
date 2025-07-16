@@ -25,15 +25,11 @@
 ### 🎮 Just for Fun
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=octocat&theme=rogue" alt="Activity Graph" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&width=435&lines=Analyzing+Data+Like+a+Pro+📊;Telling+Stories+with+Numbers+📈;Turning+Logic+into+Insight+💡" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=435&lines=Crunching+Data+like+a+Ninja+💻;Making+Numbers+Tell+Stories+📊;Fun+with+Python+%2B+SQL+🧠" />
 </p>
 
 ---
